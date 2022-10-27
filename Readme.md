@@ -25,14 +25,9 @@ Console.WriteLine = Yazıyı Bir Alt Satıra Geçip Yazdırır
 
 Örn:
 
-
-Console.WriteLine("Satır 1");
-
-
-Console.WriteLine("Merhaba");
-
-
 ![Merhaba](/img/Merhaba.png)
+
+![Merhaba](/img/Merhaba1sonuc.png)
 
 
 --------------------------------------------------------------------------------------
@@ -40,11 +35,9 @@ Console.WriteLine("Merhaba");
 Console.Write = Yazıyı Direkt Olarak Yazdırır
 Örn:
 
-Console.Write("Merhaba");
-
-Console.WriteLine("Satır 2");
-
 ![Merhaba](/img/Merhaba2.png)
+
+![Merhaba](/img/Merhaba2Sonuc.png)
 
 
 --------------------------------------------------------------------------------------
