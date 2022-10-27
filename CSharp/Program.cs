@@ -594,8 +594,9 @@ namespace Program
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Satır 1");
-            Console.WriteLine("Merhaba");
+            Console.Write("Merhaba");
+            Console.WriteLine("");
+            Console.WriteLine("Satır 2");
             Console.ReadLine();
         }
         

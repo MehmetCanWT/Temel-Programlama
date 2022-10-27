@@ -2,3 +2,7 @@ CSharp
 CSharp\
 \CSharp
 \CSharp\
+CSharp/.vs/CSharp/v17/.suo
+*.dll
+*.pdb
+CSharp/Program.cs
