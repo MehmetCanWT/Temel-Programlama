@@ -44,6 +44,6 @@ Console.Write = Yazıyı Direkt Olarak Yazdırır
 
 Math.Sqrt = Bir Sayının Karekökünü Almayı Sağlar
 
-```javascript Math.Sqrt
-console.log('Code Tab B');
-```
+![Merhaba](/img/MathSqrt.png)
+
+![Merhaba](/img/MathSqrt1.png)
