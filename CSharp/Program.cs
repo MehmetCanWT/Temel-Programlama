@@ -594,11 +594,8 @@ namespace Program
         static void Main(string[] args)
         {
 
-            double Sayı, karekok;
-            Console.WriteLine("Bir Sayı Giriniz");
-            Sayı = Convert.ToInt32(Console.ReadLine());
-            karekok = Math.Sqrt(Sayı);
-            Console.WriteLine("Sayının Karekökü= " + karekok);
+            Console.WriteLine("Satır 1");
+            Console.WriteLine("Merhaba");
             Console.ReadLine();
         }
         
