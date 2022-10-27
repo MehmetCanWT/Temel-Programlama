@@ -370,7 +370,7 @@ namespace Program
 
 }
 */
- 
+
 /* 1'den Girilen Sayıya Kadar Olan Çift Sayıları Toplama
  
 namespace Program
@@ -563,6 +563,8 @@ namespace Program
 }
 */
 
+/*
+ 
 namespace Program
 {
     internal class Program
@@ -580,5 +582,21 @@ namespace Program
             Console.ReadLine();
         }
 
+    }
+}
+
+*/
+
+namespace Program
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Merhaba");
+            Console.WriteLine("Satır 2");
+            Console.ReadLine();
+        }
+        
     }
 }
