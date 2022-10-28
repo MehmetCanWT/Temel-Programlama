@@ -20,33 +20,33 @@ Convert.ToInt32(); = ToInt32(String) Bir sayının belirtilen dize temsilini eş
 
 Console.WriteLine = Yazıyı Bir Alt Satıra Geçip Yazdırır
 
-![Merhaba](/img/Merhaba.png)
+![ConsoleWriteLine](/img/Merhaba.png)
 
-![Merhaba](/img/Merhaba1sonuc.png)
+![ConsoleWriteLine](/img/Merhaba1sonuc.png)
 
 
 --------------------------------------------------------------------------------------
 
 Console.Write = Yazıyı Direkt Olarak Yazdırır
 
-![Merhaba](/img/Merhaba2.png)
+![ConsoleWrite](/img/Merhaba2.png)
 
-![Merhaba](/img/Merhaba2Sonuc.png)
+![ConsoleWrite](/img/Merhaba2Sonuc.png)
 
 --------------------------------------------------------------------------------------
 
 Math.Sqrt = Bir Sayının Karekökünü Almayı Sağlar
 
-![Merhaba](/img/MathSqrt.png)
+![MathSqrt](/img/MathSqrt.png)
 
-![Merhaba](/img/MathSqrt1.png)
+![MathSqrt](/img/MathSqrt1.png)
 
 --------------------------------------------------------------------------------------
 
 Math.Pow = Bir Sayının Üssünü Almayı Sağlar
 
-![Merhaba](/img/MathPow.png)
+![MathPow](/img/MathPow.png)
 
-![Merhaba](/img/MathPow1.png)
+![MathPow](/img/MathPow1.png)
 
 --------------------------------------------------------------------------------------
