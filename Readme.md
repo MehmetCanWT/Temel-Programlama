@@ -40,3 +40,13 @@ Math.Sqrt = Bir Sayının Karekökünü Almayı Sağlar
 ![Merhaba](/img/MathSqrt.png)
 
 ![Merhaba](/img/MathSqrt1.png)
+
+--------------------------------------------------------------------------------------
+
+Math.Pow = Bir Sayının Üssünü Almayı Sağlar
+
+![Merhaba](/img/MathPow.png)
+
+![Merhaba](/img/MathPow1.png)
+
+--------------------------------------------------------------------------------------
