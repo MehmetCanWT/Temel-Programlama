@@ -12,7 +12,7 @@ int = Uygulama geliştirirken en sık kullandığımız değişkenlerden biri �
 
 --------------------------------------------------------------------------------------
 
-Double = double türündeki değişkenler 64 bitlik (8 byte) gerçek sayı depolarlar.
+Double = double türündeki değişkenler 64 bitlik gerçek sayı depolarlar.
 
 --------------------------------------------------------------------------------------
 
@@ -20,11 +20,11 @@ String = string veri türü Unicode karakterlerden oluşan bir dizi grubudur. Ge
 
 --------------------------------------------------------------------------------------
 
-Convert.ToInt32(); = ToInt32(String) Bir sayının belirtilen dize temsilini eşdeğer bir 32 bit işaretli tamsayıya dönüştürür.
+Convert.ToInt32(); = belirtilen dize temsilini eşdeğer bir 32 bit işaretli tamsayıya dönüştürür.
 
 --------------------------------------------------------------------------------------
 
-Console.ReadLine() : Bu metod ile kullanıcını klavyeden girdiği değer okunur. Okunan değer metin (string) tipinde bir ifade olarak geri döndürür.
+Console.ReadLine() = Bu metod ile kullanıcını klavyeden girdiği değer okunur. Okunan değer metin (string) tipinde bir ifade olarak geri döndürür.
 
 --------------------------------------------------------------------------------------
 
