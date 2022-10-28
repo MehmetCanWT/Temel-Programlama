@@ -1,5 +1,11 @@
-# Temel-Programlama
-Temel Programlama Notları
+# Temel-Programlama Notları
+
+
+<p align="left"> <a href="#csharp-notları" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+<a href="#java-notları" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+
+# Csharp Notları
 
 --------------------------------------------------------------------------------------
 int = Uygulama geliştirirken en sık kullandığımız değişkenlerden biri “int” türüdür.  Bunda en önemli etken tam sayı değer tutabilmesi ve veri aralığının geniş olmasıdır.
@@ -18,12 +24,15 @@ Convert.ToInt32(); = ToInt32(String) Bir sayının belirtilen dize temsilini eş
 
 --------------------------------------------------------------------------------------
 
+Console.ReadLine() : Bu metod ile kullanıcını klavyeden girdiği değer okunur. Okunan değer metin (string) tipinde bir ifade olarak geri döndürür.
+
+--------------------------------------------------------------------------------------
+
 Console.WriteLine = Yazıyı Bir Alt Satıra Geçip Yazdırır
 
 ![ConsoleWriteLine](/img/Merhaba.png)
 
 ![ConsoleWriteLine](/img/Merhaba1sonuc.png)
-
 
 --------------------------------------------------------------------------------------
 
@@ -50,3 +59,23 @@ Math.Pow = Bir Sayının Üssünü Almayı Sağlar
 ![MathPow](/img/MathPow1.png)
 
 --------------------------------------------------------------------------------------
+
+Math.PI = Pi Sayısıdır 3,14 Olarak Alınır
+
+Math.Cos = Bir Sayının Kosünüsünü Almayı Sağlar
+
+![MathCos](/img/MathCos.png)
+
+![MathCos](/img/MathCos1.png)
+
+--------------------------------------------------------------------------------------
+
+Math.Sin = Bir Sayının Sinüsünü Almayı Sağlar
+
+![MathSin](/img/MathSin.png)
+
+![MathSin](/img/MathSin1.png)
+
+--------------------------------------------------------------------------------------
+
+
