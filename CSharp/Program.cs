@@ -594,10 +594,15 @@ namespace Program
         static void Main(string[] args)
         {
 
-            Console.Write("Merhaba");
-            Console.WriteLine("");
-            Console.WriteLine("Satır 2");
+            double sonuc, üs, taban;
+            Console.WriteLine("Taban'daki Sayıyı Giriniz");
+            taban = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Üs'ü Giriniz");
+            üs = Convert.ToInt32(Console.ReadLine());
+            sonuc = Math.Pow(taban, üs);
+            Console.WriteLine("Sonuc = " + sonuc);
             Console.ReadLine();
+
         }
         
     }
