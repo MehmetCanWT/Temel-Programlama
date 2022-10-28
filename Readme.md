@@ -8,6 +8,7 @@
 # Csharp Notları
 
 --------------------------------------------------------------------------------------
+
 int = Uygulama geliştirirken en sık kullandığımız değişkenlerden biri “int” türüdür.  Bunda en önemli etken tam sayı değer tutabilmesi ve veri aralığının geniş olmasıdır.
 
 --------------------------------------------------------------------------------------
