@@ -14,16 +14,11 @@ String = string veri türü Unicode karakterlerden oluşan bir dizi grubudur. Ge
 
 --------------------------------------------------------------------------------------
 
-
 Convert.ToInt32(); = ToInt32(String) Bir sayının belirtilen dize temsilini eşdeğer bir 32 bit işaretli tamsayıya dönüştürür.
-
 
 --------------------------------------------------------------------------------------
 
 Console.WriteLine = Yazıyı Bir Alt Satıra Geçip Yazdırır
-
-
-Örn:
 
 ![Merhaba](/img/Merhaba.png)
 
@@ -33,12 +28,10 @@ Console.WriteLine = Yazıyı Bir Alt Satıra Geçip Yazdırır
 --------------------------------------------------------------------------------------
 
 Console.Write = Yazıyı Direkt Olarak Yazdırır
-Örn:
 
 ![Merhaba](/img/Merhaba2.png)
 
 ![Merhaba](/img/Merhaba2Sonuc.png)
-
 
 --------------------------------------------------------------------------------------
 
