@@ -593,12 +593,6 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            double Açı, Sonuc;
-            Console.WriteLine("Sinüs'ünü Almak İstediğiniz Açıyı Giriniz");
-            Açı = Convert.ToInt32(Console.ReadLine());
-            Sonuc = (Math.Sin((Açı * (Math.PI)) / 180));
-            Console.WriteLine(Açı + " Sayısının Sinüs'ü = " + Sonuc);
-            Console.ReadLine();
 
         }
         
